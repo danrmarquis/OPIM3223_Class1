@@ -6,6 +6,7 @@ Welcome to OPIM 3223!
 ### Introductions!
 
 ### Syllabus Overview
+[Check out our syllabus](https://docs.google.com/document/d/1Vt2L0tKvQH8BbJvvAXoyFPq9MwhVZYYliAcCWQg2pBQ/edit?usp=sharing)
 
 ### Our Tools
 A quick intro to the tools we'll use in this class, let's get setup and ready to go!
@@ -32,8 +33,4 @@ Download it here:
 #### Unity
 Our framework for using code to build games!
 
-Download/install it here: 
-
-### Introduction to C#
-
-### Introduction to Visual Studio
+Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
