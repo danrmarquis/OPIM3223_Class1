@@ -27,8 +27,7 @@ A quick intro to the tools we'll use in this class, let's get setup and ready to
 #### Visual Studio
 Our Integrated Development Environment (IDE) for this course.
 
-Download it here: 
-(There's also a link in the syllabus)
+Download it here: [Visual Studio](https://visualstudio.microsoft.com/vs/)
 
 #### Unity
 Our framework for using code to build games!
