@@ -1,6 +1,7 @@
 ## About Me ReadMe
 ##### Nathan Silverman
-**OPIM 3223**
+**OPIM 3223**  
+
 **[My LinkedIn](https://www.linkedin.com/in/nathan-silverman-094103170/)**
 
 ####     Academics
