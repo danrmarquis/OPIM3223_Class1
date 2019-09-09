@@ -11,7 +11,7 @@
 - I am a Freshman
 - I am living in Buckley
 ---
-## About my High School
+## Other
 - I went to a magnet high school in Hartford, CT
 - I took classes at the University of Hartford while in high school
 ---
