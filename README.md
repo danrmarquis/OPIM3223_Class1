@@ -1,39 +1,27 @@
 # Aliana Pilao (Ali)
-Welcome to OPIM 3223!
+Hi class! 
 
 ## Lemmi tell you more about me 
 
 ### Introductions!
-Hi! My name is Aliana Pilao but feel free to call me Ali from now on. I am a Senior MIS Major with a Digital Marketing & Analystics and Communications Minor here at the University of Connecticut. 
+Heyoo! My name is Aliana Pilao but feel free to call me Ali from now on. I am a Senior MIS Major with a Digital Marketing & Analystics and Communications Minor here at the University of Connecticut. 
 
 I have a pretty jam packed schedule this semester so let me take you through my day. 
 
 ### Mornings with Me 
-I am not a morning person so my earliest class starts at 11AM on Tuesday/Thursdays and 12:30PM on Monday/Wednesdays. I like to have a relaxing morning or else I will be cranky throughout the day 
-[Check out our syllabus](https://docs.google.com/document/d/1Vt2L0tKvQH8BbJvvAXoyFPq9MwhVZYYliAcCWQg2pBQ/edit?usp=sharing)
+I am not a morning person so my earliest class starts at 11AM on Tuesday/Thursdays and 12:30PM on Monday/Wednesdays. I like to have a relaxing morning or else I will be cranky throughout the day. 
+
+
+Usually I like to wake up 2 hours before my classes and cook myself a beefy breakfast- toast and omelettes. 
 
 ### Afternoons with Me 
-A quick intro to the tools we'll use in this class, let's get setup and ready to go!
+- Class Class Class and MORE CLASS ! (Taking 18 credits this semester, fun !)
+- I Work at UCTV as Communications Director so that also takes up a lot of my afternoons 
+- Catch me at the SU Dunkin tables during my breaks if I am not in class or working 
 
 #### Nights with Me 
-1. Class Repository
-2. What's a README?
-3. Setup & Cloning?!?
-4. Branches
-5. You've been Committed
-6. Pull Requests
+- Exec Board and Communications Meetings !
+- And finally, I like to finish my days off at the Gym  
+- Oh and eat din din of course. 
 
-[GitHub Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
-#### Slack
-[Let's get this party started](https://opim3224.slack.com)
-
-#### Visual Studio
-Our Integrated Development Environment (IDE) for this course.
-
-Download it here: [Visual Studio](https://visualstudio.microsoft.com/vs/)
-
-#### Unity
-Our framework for using code to build games!
-
-Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
