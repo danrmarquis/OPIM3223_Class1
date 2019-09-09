@@ -11,7 +11,7 @@
 
 #### Interests
 * Road Biking
-**![Bike](~/OPIM3223_Class1/bike.jpg)**
+![Bike](~https://vader-prod.s3.amazonaws.com/1552662202-argonaut-road-disc-1552662190.jpg)
 * Programming
   * ```python
   print(Hello World!)
