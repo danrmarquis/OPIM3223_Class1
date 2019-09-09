@@ -1,35 +1,9 @@
 # OPIM 3223 Advanced Business Application Development
-Welcome to OPIM 3223!
 
-## Agenda
+## About me
 
-### Introductions!
+### Introduction
+My name is Shariq Khan. I am a Junior majoring in Computer Science and Engineering. I play cricket and tennis pretty much every other weekend. I am originally from [Pakistan](https://en.wikipedia.org/wiki/Pakistan).
 
-### Syllabus Overview
-[Check out our syllabus](https://docs.google.com/document/d/1Vt2L0tKvQH8BbJvvAXoyFPq9MwhVZYYliAcCWQg2pBQ/edit?usp=sharing)
-
-### Our Tools
-A quick intro to the tools we'll use in this class, let's get setup and ready to go!
-
-#### GitHub
-1. Class Repository
-2. What's a README?
-3. Setup & Cloning?!?
-4. Branches
-5. You've been Committed
-6. Pull Requests
-
-[GitHub Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-
-#### Slack
-[Let's get this party started](https://opim3224.slack.com)
-
-#### Visual Studio
-Our Integrated Development Environment (IDE) for this course.
-
-Download it here: [Visual Studio](https://visualstudio.microsoft.com/vs/)
-
-#### Unity
-Our framework for using code to build games!
-
-Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
+### Interests
+I am interested in learning more about app development (mobile/web/game). Data science and machine learning are also possible fields that I want to get into.
