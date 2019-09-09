@@ -19,7 +19,7 @@ Usually I like to wake up 2 hours before my classes and cook myself a beefy brea
 - I Work at UCTV as Communications Director so that also takes up a lot of my afternoons 
 - Catch me at the SU Dunkin tables during my breaks if I am not in class or working 
 
-#### Nights with Me 
+### Nights with Me 
 - Exec Board and Communications Meetings !
 - And finally, I like to finish my days off at the Gym  
 - Oh and eat din din of course. 
