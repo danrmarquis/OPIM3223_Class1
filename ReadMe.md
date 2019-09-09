@@ -11,6 +11,7 @@
 
 #### Interests
 * Road Biking
+![Bike](~/GitHub/OPIM3223_Class1/bike.jpg)
 * Programming
   * ```python
   print(Hello World!)
