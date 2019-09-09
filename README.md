@@ -33,3 +33,15 @@ Download it here: [Visual Studio](https://visualstudio.microsoft.com/vs/)
 Our framework for using code to build games!
 
 Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
+
+# Samuel Oslovich
+---
+## Facts about me
+- I am a Computer Science Major
+- I am an Honors Student
+- I am a Freshman
+- I went to a magnet high school in Hartford, CT
+- I took classes at the University of Hartford while in high school
+- I am from Vernon, CT
+- I play piano
+- My favorite place I've traveled is New Zealand
