@@ -1,35 +1,25 @@
-# OPIM 3223 Advanced Business Application Development
-Welcome to OPIM 3223!
+# Dan's README
+![this is me!](https://www.danmarquis.com/img/profile.jpg)
+[this is my website](https://www.danmarquis.com/)
 
-## Agenda
+## Where I work
+- Travelers Insurance, Hartford CT
+- Digital Enablement dept.
+- The Gold Building! ![gold bldg](https://pbs.twimg.com/media/DdZuiatXUAAAYU0.jpg)
 
-### Introductions!
+## What I do
+- Solution Architect
+- Software Engineer
+- Omni-channel technologies
 
-### Syllabus Overview
-[Check out our syllabus](https://docs.google.com/document/d/1Vt2L0tKvQH8BbJvvAXoyFPq9MwhVZYYliAcCWQg2pBQ/edit?usp=sharing)
+## School
+- University of Connecticut
+- B.S. in MIS
+- Graduated in 2014
+- Student Manager at HuskyTech
+- Honors Thesis on Hacktivism Detection
 
-### Our Tools
-A quick intro to the tools we'll use in this class, let's get setup and ready to go!
-
-#### GitHub
-1. Class Repository
-2. What's a README?
-3. Setup & Cloning?!?
-4. Branches
-5. You've been Committed
-6. Pull Requests
-
-[GitHub Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-
-#### Slack
-[Let's get this party started](https://opim3224.slack.com)
-
-#### Visual Studio
-Our Integrated Development Environment (IDE) for this course.
-
-Download it here: [Visual Studio](https://visualstudio.microsoft.com/vs/)
-
-#### Unity
-Our framework for using code to build games!
-
-Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
+## Fun!
+- My wife and I just bought a house in Bristol, CT
+- I love to run! Currently training for a half marathon
+- Love craft beer and traveling 
