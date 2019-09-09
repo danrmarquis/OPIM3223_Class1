@@ -1,17 +1,21 @@
-# OPIM 3223 Advanced Business Application Development
+# Aliana Pilao (Ali)
 Welcome to OPIM 3223!
 
-## Agenda
+## Lemmi tell you more about me 
 
 ### Introductions!
+Hi! My name is Aliana Pilao but feel free to call me Ali from now on. I am a Senior MIS Major with a Digital Marketing & Analystics and Communications Minor here at the University of Connecticut. 
 
-### Syllabus Overview
+I have a pretty jam packed schedule this semester so let me take you through my day. 
+
+### Mornings with Me 
+I am not a morning person so my earliest class starts at 11AM on Tuesday/Thursdays and 12:30PM on Monday/Wednesdays. I like to have a relaxing morning or else I will be cranky throughout the day 
 [Check out our syllabus](https://docs.google.com/document/d/1Vt2L0tKvQH8BbJvvAXoyFPq9MwhVZYYliAcCWQg2pBQ/edit?usp=sharing)
 
-### Our Tools
+### Afternoons with Me 
 A quick intro to the tools we'll use in this class, let's get setup and ready to go!
 
-#### GitHub
+#### Nights with Me 
 1. Class Repository
 2. What's a README?
 3. Setup & Cloning?!?
