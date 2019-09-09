@@ -1,4 +1,4 @@
-# OPIM 3223 Advanced Business Application Development
+# Shariq Khan
 
 ## About me
 
