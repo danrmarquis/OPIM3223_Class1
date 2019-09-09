@@ -1,10 +1,7 @@
 ---
 # Samuel Oslovich
 ---
-## Facts about me
-
-
-- I am from Vernon, CT
+## Fun facts about me
 - I play piano
 - My favorite place I've traveled is New Zealand
 ---
