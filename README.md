@@ -34,6 +34,7 @@ Our framework for using code to build games!
 
 Download/install it here: [Download Unity](https://unity3d.com/get-unity/download)
 
+---
 # Samuel Oslovich
 ---
 ## Facts about me
